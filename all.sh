@@ -6,6 +6,7 @@
 # PNG
 #
 # Autor: John Sanabria - john.sanabria@correounivalle.edu.co
+# Modificado por: Jose Manuel Palma - jose.palma@correounivalle.edu.co
 # Fecha: 2024-08-22
 #
 # INPUT_PNG="image.png"
